@@ -3,4 +3,5 @@ void main(){
 
     findX();
     findY();
+    findZ();
 }
